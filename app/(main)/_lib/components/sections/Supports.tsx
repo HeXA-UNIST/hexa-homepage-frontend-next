@@ -15,8 +15,17 @@ function Supports() {
                     <Link href="https://www.mobis.co.kr/kr/index.do" aria-label="link" className="w-36 h-36 overflow-hidden rounded-3xl flex justify-center items-center bg-white">
                         <Image className="p-2 w-full h-auto" src="/images/supports/Hyundai_Mobis_Logo.png" width={144} height={144} alt="" />
                     </Link>
+                    <Link href="https://elice.io/ko" aria-label="link" className="w-36 h-36 overflow-hidden rounded-3xl flex justify-center items-center bg-white">
+                        <Image className="p-2 w-full h-auto" src="/images/supports/elice_CI.jpg" width={144} height={144} alt="" />
+                    </Link>
                     <Link href="https://savehome.kr/about" aria-label="link" className="w-36 h-36 overflow-hidden rounded-3xl flex justify-center items-center bg-white">
                         <Image className="p-2 w-full h-auto" src="/images/supports/jipjikyeo.png" width={144} height={144} alt="" />
+                    </Link>
+                    <Link href="https://hspace.io/" aria-label="link" className="w-36 h-36 overflow-hidden rounded-3xl flex justify-center items-center bg-white">
+                        <Image className="p-2 w-full h-auto" src="/images/supports/hspace.png" width={144} height={144} alt="" />
+                    </Link>
+                    <Link href="https://www.instagram.com/cca_auth/" aria-label="link" className="w-36 h-36 overflow-hidden rounded-3xl flex justify-center items-center bg-white">
+                        <Image className="p-2 w-full h-auto" src="/images/supports/cca_logo.jpg" width={144} height={144} alt="" />
                     </Link>
                     {/* <a className="w-36 h-36">
                         <img className="p-2 w-full h-auto " src="/images/sample1.png" alt="" />
